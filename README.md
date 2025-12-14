@@ -110,7 +110,7 @@ Run once:
 
 termux-setup-storage
 
-> On first launch, go through the Install / Update option with an active internet connection to automatically set up all dependencies.
+> On first launch, go through the Install / Update option and then download frida gadget option with an active internet connection to automatically set up all dependencies.
 
 
 
@@ -121,11 +121,11 @@ termux-setup-storage
 
 Install via pip:
 
-pip install uamt
+```pip install uamt```
 
 Then run:
 
-uamt
+```uamt```
 
 
 ---
