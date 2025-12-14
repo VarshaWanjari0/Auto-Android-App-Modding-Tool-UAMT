@@ -1,5 +1,8 @@
 # 🔧 UAMT – Ultimate Android App Modding Toolkit
 
+NO ROOT NEEDED ✅
+---
+
 UAMT is a powerful **Termux-based Android modding toolkit** that allows you to inject **Frida Gadget** and **custom native libraries**, patch APKs, rebuild, align, and sign them directly on your Android device.
 
 It is designed to be **fast, stable, and easy to use**, featuring a **full-screen interactive TUI**, smart auto-detection, and **automatic dependency installation**.
