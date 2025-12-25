@@ -1,4 +1,4 @@
-# 🔧 UAMT – Ultimate Android App Modding Toolkit
+# UAMT – Ultimate Auto Android App Modding Toolkit
 
 NO ROOT NEEDED ✅
 ---
@@ -9,7 +9,7 @@ It is designed to be **fast, stable, and easy to use**, featuring a **full-scree
 
 📦 Installation
 ---
-Install via pip:
+Install via pip(first install python):
 
 ```pip install uamt```
 
